@@ -1,4 +1,3 @@
-
 number = int(input("Enter a whole number: "))
 
 
